@@ -7,10 +7,11 @@ PackageLocale: en-US
 Publisher: yyzTools
 PublisherUrl: https://github.com/jearry
 PublisherSupportUrl: https://github.com/jearry/yyzTools/issues
+PrivacyUrl: https://yyztools.com/privacy.html
 PackageName: yyzTools
 PackageUrl: https://github.com/jearry/yyzTools
-License: NOASSERTION
-ShortDescription: yyzTools Setup
+License: Proprietary
+ShortDescription: A local-first Windows productivity toolkit with search, clipboard, OCR, translation, file, media, and automation tools.
 ReleaseNotesUrl: https://github.com/jearry/yyzTools/releases/tag/v1.0.5.1500
 Documentations:
 - DocumentLabel: Wiki
